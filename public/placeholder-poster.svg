@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0f1117"/>
+      <stop offset="1" stop-color="#11131a"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#g)"/>
+  <g fill="#2a2f3a" font-family="sans-serif" font-size="20" text-anchor="middle">
+    <text x="200" y="280">Sin póster</text>
+    <text x="200" y="310">disponible</text>
+  </g>
+</svg>
